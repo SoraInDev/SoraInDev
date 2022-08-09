@@ -15,7 +15,6 @@
 <p><b>Need to Learn more</b><br>
 <img src="https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/C-%23121011.svg?style=for-the-badge&logo=C&logoColor=white">
 
 <p><b>Need to Learn</b><br>
 <img src="https://img.shields.io/badge/C-%23121011.svg?style=for-the-badge&logo=C&logoColor=white">
