@@ -4,9 +4,8 @@
 <p>I'm <a href="https://github.com/SoraInDev">Sora</a>, a student.</p>
 
 <ul>
-<li>:computer: I’m currently working on differents project <i> (Dedicated Server, WebSite, Server Games etc..)</i>.</li>
- 
-</ul>
+<li>:computer: I’m currently working on differents project with <a href=https://github.com/N3zushi>Nezushi</a><i> (Dedicated Server, WebSite, Server Games etc..)</i>.</li></ul>
+
 <p><b>Programming Languages</b><br>
 <img src="https://img.shields.io/badge/-JavaScript-%23121011?style=for-the-badge&?&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.Js-%23121011?style=for-the-badge&?&logo=Node.js&logoColor=white">
@@ -22,8 +21,9 @@
 <img src="https://img.shields.io/badge/C++-%23121011.svg?style=for-the-badge&logo=C++&logoColor=white">
 
 <p><b>Operating System</b><br>
-<img src="https://img.shields.io/badge/Linux-%23121011.svg?style=for-the-badge&logo=Linux&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-%23121011.svg?style=for-the-badge&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-000080.svg?style=for-the-badge&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-000080.svg?style=for-the-badge&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-000080?style=for-the-badge&logo=debian&logoColor=white">
 
 <p><b>Editors</b><br>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
