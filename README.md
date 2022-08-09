@@ -1,10 +1,9 @@
 
  <h2> Hello Everyone :wave: </h2>
-
 <p>I'm <a href="https://github.com/SoraInDev">Sora</a>, a student.</p>
 
 <ul>
-<li>:computer: I’m currently working on differents project with <a href=https://github.com/N3zushi>Nezushi</a><i> (Dedicated Server, WebSite, Server Games etc..)</i>.</li></ul>
+<li>:computer: I’m currently working on differents project with <b> <a href=https://github.com/N3zushi>@Nezushi</a> <i> (Dedicated Server, WebSite, Server Games etc..)</i></b>.</li></ul>
 
 <p><b>Programming Languages</b><br>
 <img src="https://img.shields.io/badge/-JavaScript-%23121011?style=for-the-badge&?&logo=JavaScript&logoColor=white">
