@@ -24,9 +24,13 @@
 <p><b>Operating System</b><br>
 <img src="https://img.shields.io/badge/Linux-%23121011.svg?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-%23121011.svg?style=for-the-badge&logo=Windows&logoColor=white">
+
 <p><b>Editors</b><br>
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
- 
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+ <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+ <img src="https://img.shields.io/badge/Sublime Text-5C2D91.svg?style=for-the-badge&logo=sublime-text&logoColor=white">
+  <img src="https://img.shields.io/badge/NotePad++-5C2D91.svg?style=for-the-badge&logo=notepadplusplus&logoColor=white">
+
 <p><b>Databases</b><br>
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-%2307405e.svg?style=for-the-badge&logo=MySQL&logoColor=white">
