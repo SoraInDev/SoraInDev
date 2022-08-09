@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/-Node.Js-%23121011?style=for-the-badge&?&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML-%23121011.svg?style=for-the-badge&logo=AIOHTTP">
 <img src="https://img.shields.io/badge/css3-%23121011.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-%23121011.svg?style=for-the-badge&logo=Lua&logoColor=white">
 <p><b>Need to Learn more</b><br>
 <img src="https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
