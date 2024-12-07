@@ -71,11 +71,4 @@ Langage Learned
 
 ---
 
-### 📬 Contact Me
-<div align="center">
-🌐 GitHub: [SoraInDev](https://github.com/SoraInDev)  
-</div>
-
----
-
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.”</i></p>
