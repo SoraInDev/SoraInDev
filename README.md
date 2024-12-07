@@ -5,14 +5,18 @@
 ---
 
 ### 🌟 About Me
+<div align="center">
 - 🚀 I’m currently collaborating on exciting projects with [@Nezushi](https://github.com/N3zushi)  
   *(Dedicated servers, websites, server-side game systems, and more)*.  
 - 🌱 Always looking to expand my knowledge and skills.  
 - 🎯 **Goal**: Become a versatile developer capable of tackling diverse challenges!  
+</div>
 
 ---
 
 ### 🛠️ Skills
+
+<div align="center">
 
 #### **Programming Languages**
 <p>
@@ -30,10 +34,13 @@
 <img src="https://img.shields.io/badge/C-%23121011.svg?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-%23121011.svg?style=for-the-badge&logo=C++&logoColor=white">
 </p>
+</div>
 
 ---
 
 ### 🖥️ Development Environment
+
+<div align="center">
 
 #### **Operating Systems**
 <p>
@@ -49,30 +56,33 @@
 <img src="https://img.shields.io/badge/Sublime Text-5C2D91.svg?style=for-the-badge&logo=sublime-text&logoColor=white">
 <img src="https://img.shields.io/badge/NotePad++-5C2D91.svg?style=for-the-badge&logo=notepadplusplus&logoColor=white">
 </p>
+</div>
 
 ---
 
 ### 💾 Databases
+<div align="center">
 <p>
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-%2307405e.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-%2307405e.svg?style=for-the-badge&logo=MariaDB&logoColor=white">
 </p>
+</div>
 
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SoraInDev&show_icons=true&theme=radical" alt="Sora's GitHub stats" width="48%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoraInDev&theme=radical" alt="Sora's GitHub streak" width="48%">
-</p>
+</div>
 
 ---
 
 ### 📬 Contact Me
-<p>
+<div align="center">
 🌐 GitHub: [SoraInDev](https://github.com/SoraInDev)  
-</p>
+</div>
 
 ---
 
