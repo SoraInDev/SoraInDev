@@ -2,9 +2,14 @@
 
 <p align="center">💻 Student Developer exploring Lua, JavaScript, C, and more!</p>
 
-<div align="center">
 
-### **Programming Languages**
+---
+
+
+### 🛠️ Programming Languages
+<div align="center">
+Langage Learned
+
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-%23121011?style=for-the-badge&?&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.Js-%23121011?style=for-the-badge&?&logo=Node.js&logoColor=white">
@@ -13,7 +18,8 @@
 <img src="https://img.shields.io/badge/Lua-%23121011.svg?style=for-the-badge&logo=Lua&logoColor=white">
 </p>
 
-#### **Still Learning**
+**Learning**
+
 <p>
 <img src="https://img.shields.io/badge/Java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
