@@ -2,18 +2,6 @@
 
 <p align="center">💻 Student Developer exploring Lua, JavaScript, C, and more!</p>
 
----
-
-### 🌟 About Me
-<div align="center">
-- 🚀 I’m currently collaborating on exciting projects with [@Nezushi](https://github.com/N3zushi)  
-  *(Dedicated servers, websites, server-side game systems, and more)*.  
-- 🌱 Always looking to expand my knowledge and skills.  
-- 🎯 **Goal**: Become a versatile developer capable of tackling diverse challenges!  
-</div>
-
----
-
 ### 🛠️ Skills
 
 <div align="center">
