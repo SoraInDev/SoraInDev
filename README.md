@@ -2,6 +2,8 @@
 
 <p align="center">💻 Student Developer exploring Lua, JavaScript, C, and more!</p>
 
+<div align="center">
+
 #### **Programming Languages**
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-%23121011?style=for-the-badge&?&logo=JavaScript&logoColor=white">
